@@ -21,4 +21,6 @@ Here are some detection ideas for this activity:
 	* (all these detection ideas may be implemented with free Sysmon and free Windows Audit EventLog events. You don't need EDRs to be able to detect this. There're also some ideas available with advanced EDR telemetry, but it's another talk)
 			
 * Oh, there are also network traffic signatures for wmiexec of course, but I'm *endpoint* hunter.
-			
+```
+Courtesy : https://twitter.com/BlackMatter23/status/1401523637019189258
+```
